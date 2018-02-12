@@ -1,0 +1,48 @@
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px 0;
+    margin: 0 auto;
+}
+
+h1, h2, h3, p, li {
+    max-width: 600px; /* Limit the line length to around 66 characters to improve readability */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-image {
+    max-width: 800px;
+    margin-top: 200px;
+    margin-bottom: 400px;
+    display:block;
+    margin:auto;
+}
+
+.heading-image {
+    max-width: 200px;
+}
+
+form, input, button {
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+
+#simpleButton {
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+
+.slidercontainer {
+    margin-left: 250px;
+}
+
+/* Zooming */
+.panZoomGeometric {
+    margin: 0 auto;
+}
+
+.panZoomSemantic {
+    margin: 0 auto;
+}
